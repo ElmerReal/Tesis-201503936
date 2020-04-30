@@ -37,20 +37,11 @@ Regresar al Indice Siguiente Leccion
 
 - Una de las etapas más importantes en el desarrollo de software es el despliegue que consiste en migrar cada versión nueva de una aplicación del entorno de desarrollo al entorno de producción
 - Existen diferentes tipos de despliegues
-- Tradicional
-- Utilizando tecnologías de virtualizacion
-- Utilizando contenedores.
+    - Tradicional
+    - Utilizando tecnologías de virtualizacion
+    - Utilizando contenedores.
 
-
-## Inconvenientes
-
-- Las configuraciones no son portables
-- Se utiliza mucho tiempo para su configuracion.
-- No se pueden desplegar aplicaciones que funcionen con diferente sistema
-operativo o versión de una librería.
-- Recursos computacionales sub-utilizados.
-
-## DESPLIEGUE TRADICIONAL
+### DESPLIEGUE TRADICIONAL
 
 Tradicionalmente el proceso de
 despliegue de una aplicación se realiza
@@ -61,7 +52,15 @@ binarios y librerías requeridas para el
 correcto funcionamiento de la
 aplicación a desplegar.
 
-#### DESPLIEGUE EN MÁQUINAS VIRTUALES
+#### Inconvenientes
+
+- Las configuraciones no son portables
+- Se utiliza mucho tiempo para su configuracion.
+- No se pueden desplegar aplicaciones que funcionen con diferente sistema
+operativo o versión de una librería.
+- Recursos computacionales sub-utilizados.
+
+### DESPLIEGUE EN MÁQUINAS VIRTUALES
 
 Los problemas del despliegue tradicional
 son solucionados utilizando la tecnología
@@ -76,8 +75,6 @@ permitiendo así desplegar múltiples
 aplicaciones y aprovechar de mejor
 manera los recursos físicos del servidor.
 
-#### DESPLIEGUE EN MÁQUINAS VIRTUALES
-
 Los software de virtualizacion se pueden instalar
 
 - Directamente sobre computadoras sin sistema operativo (también conocido
@@ -90,7 +87,7 @@ monitorear la interacción que se realiza con las componentes simulados para
 replicarlos en la maquina física.
 
 
-## Inconvenientes
+#### Inconvenientes
 
 ```
  - Si existen varias maquinas de un mismo sistema operativo se duplica el
@@ -106,9 +103,8 @@ computadora pueda soportar.
  - Una maquina virtual puede reservar recursos que no utiliza
 ```
 
-## DESPLIEGUE EN CONTENEDORES
+### DESPLIEGUE EN CONTENEDORES
 
-```
 Otra manera de desplegar aplicaciones
 es empaquetando el software en
 unidades estandarizadas denominadas
@@ -119,9 +115,7 @@ de virtualizacion que resuelve algunos
 problemas de las máquinas virtuales al
 aprovechar ciertas características del
 Kernel de linux
-```
 
-## DESPLIEGUE EN CONTENEDORES
 
 Docker a diferencia de las maquinas virtuales, que proporcionan entornos
 completamente aislados (con sistema operativo y kernel propio), ofrece entornos
@@ -133,7 +127,7 @@ del hipervisor ya que todo se realiza sobre la maquina anfitrión a través de u
 servicio (conocido como demonio Docker).
 
 
-## Ventajas
+#### Ventajas
 
 ```
  - Portabilidad : puede ejecutarse en cualquier maquina y siempre tendrá el
@@ -145,7 +139,7 @@ aprovechan mas los recursos fisicos.
 funcionar.
 ```
 
-## Ejemplo
+# Ejemplo
 
  - Suponga que se necesita desplegar dos aplicaciones con las
 
