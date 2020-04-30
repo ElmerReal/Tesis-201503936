@@ -35,10 +35,8 @@ Regresar al Indice Siguiente Leccion
 
 ## Despliegue
 
-```
- - Una de las etapas más importantes en el desarrollo de software es el despliegue que consiste en migrar cada versión nueva de una aplicación del entorno de desarrollo al entorno de producción
- - Existen diferentes tipos de despliegues
-```
+- Una de las etapas más importantes en el desarrollo de software es el despliegue que consiste en migrar cada versión nueva de una aplicación del entorno de desarrollo al entorno de producción
+- Existen diferentes tipos de despliegues
 - Tradicional
 - Utilizando tecnologías de virtualizacion
 - Utilizando contenedores.
@@ -46,17 +44,14 @@ Regresar al Indice Siguiente Leccion
 
 ## Inconvenientes
 
-```
- - Las configuraciones no son portables
- - Se utiliza mucho tiempo para su configuracion.
- - No se pueden desplegar aplicaciones que funcionen con diferente sistema
+- Las configuraciones no son portables
+- Se utiliza mucho tiempo para su configuracion.
+- No se pueden desplegar aplicaciones que funcionen con diferente sistema
 operativo o versión de una librería.
- - Recursos computacionales sub-utilizados.
-```
+- Recursos computacionales sub-utilizados.
 
 ## DESPLIEGUE TRADICIONAL
 
-```
 Tradicionalmente el proceso de
 despliegue de una aplicación se realiza
 sobre una maquina física
@@ -65,11 +60,9 @@ operativo, versiones de archivos
 binarios y librerías requeridas para el
 correcto funcionamiento de la
 aplicación a desplegar.
-```
 
 #### DESPLIEGUE EN MÁQUINAS VIRTUALES
 
-```
 Los problemas del despliegue tradicional
 son solucionados utilizando la tecnología
 de virtualizacion , la cual permite simular
@@ -82,17 +75,15 @@ tantas como el hardware soporte,
 permitiendo así desplegar múltiples
 aplicaciones y aprovechar de mejor
 manera los recursos físicos del servidor.
-```
 
 #### DESPLIEGUE EN MÁQUINAS VIRTUALES
 
 Los software de virtualizacion se pueden instalar
 
-```
- - Directamente sobre computadoras sin sistema operativo (también conocido
+- Directamente sobre computadoras sin sistema operativo (también conocido
 como Bare-Metal)
- - Sobre algún sistema operativo
-```
+- Sobre algún sistema operativo
+
 Para funcionar crea una simulación de todos los componentes físicos de la
 computadora y utiliza un programa centinela conocido como **hipervisor** para
 monitorear la interacción que se realiza con las componentes simulados para
