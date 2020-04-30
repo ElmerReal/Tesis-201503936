@@ -666,7 +666,8 @@ utilizar este atributo.
     - **Docker-compose start <Nombre_Servicio>**
 
  - Detener un servicio específico
-
-    - **Docker-compose stop <Nombre_Servicio>**
+    '''
+    Docker-compose stop <Nombre_Servicio>
+    '''
 
 
