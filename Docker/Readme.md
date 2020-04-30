@@ -10,7 +10,7 @@ Abril 2020
 
 - [Lección 1: Introducción](#introducción)
 
-- [Lección 2: Conceptos Básicos](#despliegue)
+- [Lección 2: Conceptos Básicos](#conceptos-básicos)
 
 - [Lección 3: Interactuar con imágenes Docker
 
