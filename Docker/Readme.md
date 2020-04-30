@@ -659,33 +659,29 @@ utilizar este atributo.
 - tty (-t):true
 
 
-Comandos para ejecutar el archivo docker-compose
+## Comandos para ejecutar el archivo docker-compose
 
  - Levantar todos los servicios
 
-- **Docker-compose up [-d]**
-     - **-d para ejecutarlos en segundo plano.**
+    - **Docker-compose up [-d]**
+        - **-d para ejecutarlos en segundo plano.**
 
  - Terminar todos los servicios.
 
-- **Docker-compose down [--volume, --build]**
-     - **--volume:** elimina todos los volumenes creados
-     - **--build:** forza a crear de nuevo las imagenes de los servicios que utilicen un
-       Dockerfile (por defecto si no detecta cambios no lo vuelve a crear)
-
-
-Comandos para ejecutar el archivo docker-compose
+    - **Docker-compose down [--volume, --build]**
+        - **--volume:** elimina todos los volumenes creados
+        - **--build:** forza a crear de nuevo las imagenes de los servicios que utilicen un Dockerfile (por defecto si no detecta cambios no lo vuelve a crear)
 
  - Listar el estado de los servicios
 
-- **Docker-compose ps**
+    - **Docker-compose ps**
 
  - Iniciar un servicio específico
 
-- **Docker-compose start <Nombre_Servicio>**
+    - **Docker-compose start <Nombre_Servicio>**
 
  - Detener un servicio específico
 
-- **Docker-compose stop <Nombre_Servicio>**
+    - **Docker-compose stop <Nombre_Servicio>**
 
 
