@@ -12,17 +12,17 @@ Abril 2020
 
 - [Lección 2: Conceptos Básicos](#conceptos-básicos)
 
-- [Lección 3: Interactuar con imágenes Docker
+- [Lección 3: Interactuar con imágenes Docker](#)
 
-- [Lección 4: Interactuar con contenedores
+- [Lección 4: Interactuar con contenedores](#)
 
-- [Lección 5: Configurar atributos de un contenedor utilizando Docker run
+- [Lección 5: Configurar atributos de un contenedor utilizando Docker run](#)
 
-- [Lección6: Crear nuevas imágenes
+- [Lección6: Crear nuevas imágenes](#)
 
-- [Lección 7: Enlazar múltiples contenedores
+- [Lección 7: Enlazar múltiples contenedores](#)
 
-- [Lección 8:Orquestar contenedores
+- [Lección 8:Orquestar contenedores](#)
 
 
 ## INTRODUCCIÓN
@@ -666,8 +666,7 @@ utilizar este atributo.
     - **Docker-compose start <Nombre_Servicio>**
 
  - Detener un servicio específico
-    ```
-    Docker-compose stop <Nombre_Servicio>
-    ```
+
+    - **Docker-compose stop <Nombre_Servicio>**
 
 
