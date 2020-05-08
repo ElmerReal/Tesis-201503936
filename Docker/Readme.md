@@ -43,8 +43,8 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Aq9hXpdTns0/0.jpg)](https://www.youtube.com/watch?v=Aq9hXpdTns0)
 
 ## Material Textual
-La presentacion utilizada en el curso esta disponible en este enlace:
-- [https://github.com/ElmerReal/Tesis-201503936/blob/master/Docker/Tesis_201503936%20Curso%20Docker.pdf](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
+Peude descargar la presentacion utilizada en el curso en este enlace:
+- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
 
 ## Material Audiovisual
 Para acceder a la lista completa de videos del curso dirigase a este enlace:
