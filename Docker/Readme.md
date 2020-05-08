@@ -48,7 +48,7 @@ Peude descargar la presentacion utilizada en el curso en este enlace:
 
 ## Material Audiovisual
 Para acceder a la lista completa de videos del curso dirigase a este enlace:
-- [https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
+- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
 
 
 
