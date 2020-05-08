@@ -36,11 +36,11 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
 - Lección 7: Enlazar múltiples contenedores
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_gUfz85GqaY/0.jpg)](https://www.youtube.com/watch?v=_gUfz85GqaY)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_gUfz85GqaY/0.jpg)](https://www.youtube.com/watch?v=_gUfz85GqaY)
 
 - Lección 8:Orquestar contenedores
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Aq9hXpdTns0/0.jpg)](https://www.youtube.com/watch?v=Aq9hXpdTns0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Aq9hXpdTns0/0.jpg)](https://www.youtube.com/watch?v=Aq9hXpdTns0)
 
 ## Material Textual
 Peude descargar la presentacion utilizada en el curso en este enlace:
