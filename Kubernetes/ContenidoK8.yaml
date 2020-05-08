@@ -1,0 +1,45 @@
+Curso: Kubernetes
+
+Lecciones:
+  Leccion1:
+    Nombre: Introduccion
+    Temas:
+      - Contexto
+      - Que es kubernetes
+      - Arquitectura de contenedores
+
+  Leccion2:
+    Nombre: Preparacion de entorno de trabajo
+    Temas:
+      - Instalar docker
+      - Instalar kubectl
+      - Instalar Minikube
+      - 
+  Leccion3:
+    Nombre: Conceptos Basicos
+    Temas:
+      - Objects
+      - Pods
+      - Deployments
+      - Services
+
+  Leccion4:
+    Nombre: Conceptos Intermedios
+    Temas:
+      - ClusterIp
+      - NodePort
+      - LoadBalancer
+
+  Leccion5:
+    Nombre: Conceptos avanzados
+    Temas:
+      - volumen
+      - NodePort
+      - LoadBalancer
+
+  DeployAutoManaged:
+    
+  DeployInGCP:
+
+  DeployInAzure:
+  

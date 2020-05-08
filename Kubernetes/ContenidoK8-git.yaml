@@ -1,0 +1,57 @@
+Chapter 1:
+
+    Pre-requirements
+
+    Our sample application
+
+    Kubernetes concepts
+
+    First contact with kubectl
+
+
+Chapter 2:
+
+    Running our first containers on Kubernetes
+
+    Accessing logs from the CLI
+
+    Declarative vs imperative
+
+    Kubernetes network model
+
+    Exposing containers
+
+    Shipping images with a registry
+
+    Running our application on Kubernetes
+
+Chapter 3:
+
+    Deploying with YAML
+
+    Scaling our demo app
+
+    Daemon sets
+
+    Labels and selectors
+
+    Rolling updates
+
+Chapter 4:
+
+    Namespaces
+
+    Exposing HTTP services with Ingress resources
+
+    Volumes
+
+    Managing configuration
+
+Chapter 5
+
+    Next steps
+
+    Last words
+
+    Links and resources
+
