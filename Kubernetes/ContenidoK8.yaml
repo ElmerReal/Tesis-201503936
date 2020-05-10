@@ -6,22 +6,28 @@ Lecciones:
     Temas:
       - Contexto
       - Que es kubernetes
-      - Arquitectura de contenedores
+      - Arquitectura de Kubernetes
+      - Casos de exito
 
   Leccion2:
     Nombre: Preparacion de entorno de trabajo
     Temas:
+      - Descripcion minikube
+      - Descripcion Kubectl
+      - Descripcion kubeadm
+      - Descripcion 
       - Instalar docker
       - Instalar kubectl
       - Instalar Minikube
-      - 
+      - Crear cluster minikube
+
   Leccion3:
     Nombre: Conceptos Basicos
     Temas:
       - Objects
-      - Pods
-      - Deployments
-      - Services
+        - Pods
+        - Deployments
+        - Services
 
   Leccion4:
     Nombre: Conceptos Intermedios
@@ -33,13 +39,11 @@ Lecciones:
   Leccion5:
     Nombre: Conceptos avanzados
     Temas:
-      - volumen
+      - VolumeClaim
       - NodePort
       - LoadBalancer
 
-  DeployAutoManaged:
-    
-  DeployInGCP:
 
-  DeployInAzure:
-  
+DeployInCloud:
+  - Manualmente
+  - Utilizando el soporte para kubernetes. GKE 

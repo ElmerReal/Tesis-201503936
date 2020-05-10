@@ -1,0 +1,208 @@
+Curso: Kubernetes
+
+Lecciones:
+  Leccion1:
+    Nombre: Introduccion
+    Temas:
+      - Contexto
+      
+Containers have become popular because they provide extra benefits, such as:
+
+    Agile application creation and deployment: increased ease and efficiency of container image creation compared to VM image use.
+    Continuous development, integration, and deployment: provides for reliable and frequent container image build and deployment with quick and easy rollbacks (due to image immutability).
+    Dev and Ops separation of concerns: create application container images at build/release time rather than deployment time, thereby decoupling applications from infrastructure.
+    Observability not only surfaces OS-level information and metrics, but also application health and other signals.
+    Environmental consistency across development, testing, and production: Runs the same on a laptop as it does in the cloud.
+    Cloud and OS distribution portability: Runs on Ubuntu, RHEL, CoreOS, on-premises, on major public clouds, and anywhere else.
+    Application-centric management: Raises the level of abstraction from running an OS on virtual hardware to running an application on an OS using logical resources.
+    Loosely coupled, distributed, elastic, liberated micro-services: applications are broken into smaller, independent pieces and can be deployed and managed dynamically – not a monolithic stack running on one big single-purpose machine.
+    Resource isolation: predictable application performance.
+    Resource utilization: high efficiency and density.
+
+
+      - Que es kubernetes
+
+                Going back in time
+                Why you need Kubernetes and what it can do
+                What Kubernetes is not
+                What's next
+
+
+            Es un sistema open-source para la automatizacion de despliegues, escalamiento y manejo de aplicaciones contenerizadas.
+
+            Agrupa los contenedores que conforman una aplicacion en unidades logicas para facilitar su administracion y descubrimiento.
+
+              Escalamiento sin necesidad de incrementar el equipo de operaciones.
+
+              Puede usarse localmente o ejecutarse en una empresa global. La flexibilidad de Kubernetes crece con usted para entregar sus aplicaciones de manera consistente y fácil, sin importar cuan compleja sea o no su necesidad.
+
+              Corre en cualquier lugar: Al ser una herramienta de codigo abierto puede correrlo en nubes privadas, hibrida, publica, lo cual permite mover sin esfuerzo las cargas
+              de trabajo a donde sea importante para usted.
+
+            - Caracteristicas de Kubernetes
+            Descubrimiento de servicios y balanceamiento de carga
+            Topologia de sericios:
+              Routing of service traffic based upon cluster topology.
+            Storage orchestration:
+            Automatically mount the storage system of your choice, whether from local storage, a public cloud provider such as GCP or AWS, or a network storage system such as NFS, iSCSI, Gluster, Ceph, Cinder, or Flocker.
+            Self-healing:
+            Restarts containers that fail, replaces and reschedules containers when nodes die, kills containers that don’t respond to your user-defined health check, and doesn’t advertise them to clients until they are ready to serve.
+
+            Batch execution:
+              In addition to services, Kubernetes can manage your batch and CI workloads, replacing containers that fail, if desired.
+            Horizontal scaling:
+              Scale your application up and down with a simple command, with a UI, or automatically based on CPU usage.
+
+Why you need Kubernetes and what it can do
+
+Containers are a good way to bundle and run your applications. In a production environment, you need to manage the containers that run the applications and ensure that there is no downtime. For example, if a container goes down, another container needs to start. Wouldn’t it be easier if this behavior was handled by a system?
+
+That’s how Kubernetes comes to the rescue! Kubernetes provides you with a framework to run distributed systems resiliently. It takes care of scaling and failover for your application, provides deployment patterns, and more. For example, Kubernetes can easily manage a canary deployment for your system.
+
+Kubernetes provides you with:
+
+    Service discovery and load balancing
+    Kubernetes can expose a container using the DNS name or using their own IP address. If traffic to a container is high, Kubernetes is able to load balance and distribute the network traffic so that the deployment is stable.
+    Storage orchestration
+    Kubernetes allows you to automatically mount a storage system of your choice, such as local storages, public cloud providers, and more.
+    Automated rollouts and rollbacks
+    You can describe the desired state for your deployed containers using Kubernetes, and it can change the actual state to the desired state at a controlled rate. For example, you can automate Kubernetes to create new containers for your deployment, remove existing containers and adopt all their resources to the new container.
+    Automatic bin packing
+    You provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and memory (RAM) each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.
+    Self-healing
+    Kubernetes restarts containers that fail, replaces containers, kills containers that don’t respond to your user-defined health check, and doesn’t advertise them to clients until they are ready to serve.
+    Secret and configuration management
+    Kubernetes lets you store and manage sensitive information, such as passwords, OAuth tokens, and SSH keys. You can deploy and update secrets and application configuration without rebuilding your container images, and without exposing secrets in your stack configuration.
+
+What Kubernetes is not
+
+Kubernetes is not a traditional, all-inclusive PaaS (Platform as a Service) system. Since Kubernetes operates at the container level rather than at the hardware level, it provides some generally applicable features common to PaaS offerings, such as deployment, scaling, load balancing, logging, and monitoring. However, Kubernetes is not monolithic, and these default solutions are optional and pluggable. Kubernetes provides the building blocks for building developer platforms, but preserves user choice and flexibility where it is important.
+
+Kubernetes:
+
+    Does not limit the types of applications supported. Kubernetes aims to support an extremely diverse variety of workloads, including stateless, stateful, and data-processing workloads. If an application can run in a container, it should run great on Kubernetes.
+    Does not deploy source code and does not build your application. Continuous Integration, Delivery, and Deployment (CI/CD) workflows are determined by organization cultures and preferences as well as technical requirements.
+    Does not provide application-level services, such as middleware (for example, message buses), data-processing frameworks (for example, Spark), databases (for example, MySQL), caches, nor cluster storage systems (for example, Ceph) as built-in services. Such components can run on Kubernetes, and/or can be accessed by applications running on Kubernetes through portable mechanisms, such as the Open Service Broker.
+    Does not dictate logging, monitoring, or alerting solutions. It provides some integrations as proof of concept, and mechanisms to collect and export metrics.
+    Does not provide nor mandate a configuration language/system (for example, Jsonnet). It provides a declarative API that may be targeted by arbitrary forms of declarative specifications.
+    Does not provide nor adopt any comprehensive machine configuration, maintenance, management, or self-healing systems.
+    Additionally, Kubernetes is not a mere orchestration system. In fact, it eliminates the need for orchestration. The technical definition of orchestration is execution of a defined workflow: first do A, then B, then C. In contrast, Kubernetes comprises a set of independent, composable control processes that continuously drive the current state towards the provided desired state. It shouldn’t matter how you get from A to C. Centralized control is also not required. This results in a system that is easier to use and more powerful, robust, resilient, and extensible.
+
+
+
+      - Arquitectura de Kubernetes:
+        Kube Master
+          Kube-apiserver
+          kube-controller-manager
+          kube-scheduler
+        Nodes:
+          - kubelet
+          - kube-proxy
+
+      - Casos de exito:
+        - Babylon
+        - Spotify
+        - Nav
+        - AppDirect
+
+
+  Using the interactive tutorials, you can learn to:
+
+    Deploy a containerized application on a cluster.
+    Scale the deployment.
+    Update the containerized application with a new software version.
+    Debug the containerized application.
+
+
+  What can Kubernetes do for you?
+
+      With modern web services, users expect applications to be available 24/7, and developers expect to deploy new versions of 
+      those applications several times a day. Containerization helps package software to serve these goals, enabling applications 
+      to be released and updated in an easy and fast way without downtime. Kubernetes helps you make sure those containerized 
+      applications run where and when you want, and helps them find the resources and tools they need to work. Kubernetes is a 
+      production-ready, open source platform designed with Google's accumulated experience in container orchestration, combined 
+      with best-of-breed ideas from the community.
+
+  Leccion2:
+    Nombre: Preparacion de entorno de trabajo
+    Temas:
+Sin necesidad de instalar nada.
+        Katacoda
+    Play with Kubernetes
+
+Instalar en una maquina virtual o maquina local.
+      - Descripcion minikube
+      - Descripcion Kubectl
+      - Descripcion kubeadm
+      - Descripcion 
+      - Instalar docker
+      - Instalar kubectl
+      - Instalar Minikube
+      - Crear cluster minikube
+
+  Leccion3:
+    Nombre: Conceptos Basicos
+    Temas:
+      - Objects
+        - Pods
+        - Service:
+            - ClusterIp Internal
+            - NodePort
+            - LoadBalancer
+        - Volume
+        - Namespace
+
+  Leccion4:
+    Nombre: Conceptos Intermedios
+    Temas:
+    
+        - Deployments
+        - DaemonSet
+        - StatefulSet
+        - ReplicaSet
+        - Job
+
+
+      
+Using Source IP
+
+Applications running in a Kubernetes cluster find and communicate with each other, 
+and the outside world, through the Service abstraction. This document explains what 
+happens to the source IP of packets sent to different types of Services, and how you 
+can toggle this behavior according to your needs.
+      
+Source IP for Services with Type=ClusterIP
+Source IP for Services with Type=NodePort
+Source IP for Services with Type=LoadBalancer
+
+  Leccion5:
+    Nombre: Conceptos avanzados
+    Temas:
+      - VolumeClaim
+      - NodePort
+      - LoadBalancer
+
+
+      Monitoring and Health Checks
+
+
+      Screts and Configmaps
+
+
+DeployInCloud:
+  - Manualmente
+  - Utilizando el soporte para kubernetes. GKE 
+
+Deployments drive current state towards desired state
+
+  Desired states
+
+
+  Rolling update
+
+
+
+
+
+
+  StatefulSets are intended to be used with stateful applications and distributed systems. However, the administration of stateful applications and distributed systems on Kubernetes is a broad, complex topic. In order to demonstrate the basic features of a StatefulSet, and not to conflate the former topic with the latter, you will deploy a simple web application using a StatefulSet.
