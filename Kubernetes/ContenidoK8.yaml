@@ -4,10 +4,10 @@ Lecciones:
   Leccion1:
     Nombre: Introduccion
     Temas:
-      - Contexto
       - Que es kubernetes
-      - Arquitectura de Kubernetes
+      - Arquitectura de un cluster k8
       - Casos de exito
+      - Opinion Personal
 
   Leccion2:
     Nombre: Preparacion de entorno de trabajo
@@ -25,23 +25,37 @@ Lecciones:
     Nombre: Conceptos Basicos
     Temas:
       - Objects
+      Imperative
         - Pods
-        - Deployments
-        - Services
+        - ConfigMap
+        - Secrets
+        - Namespace
+        - Services:
+            - ClusterIp
+            - NodePort
+            - LoadBalancer
+
+
 
   Leccion4:
     Nombre: Conceptos Intermedios
     Temas:
-      - ClusterIp
-      - NodePort
-      - LoadBalancer
+    Config files
+    Declarative
+        - Deployments
+        - DaemonSet
+        - StatefulSet
+        - ReplicaSet
+        - Job
+
 
   Leccion5:
     Nombre: Conceptos avanzados
     Temas:
       - VolumeClaim
-      - NodePort
-      - LoadBalancer
+      - Ingress
+      - Monitoring
+      - Health checks
 
 
 DeployInCloud:
