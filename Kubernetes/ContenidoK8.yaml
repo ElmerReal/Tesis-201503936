@@ -10,12 +10,17 @@ Lecciones:
       - Opinion Personal
 
   Leccion2:
+    Nombre: Play with Kubernetes
+    Temas:
+      - Como ir a play with kubernetes
+
+  Leccion2:
     Nombre: Preparacion de entorno de trabajo
     Temas:
+      - Diagrama de cluster K8
       - Descripcion minikube
       - Descripcion Kubectl
       - Descripcion kubeadm
-      - Descripcion 
       - Instalar docker
       - Instalar kubectl
       - Instalar Minikube
@@ -24,12 +29,24 @@ Lecciones:
   Leccion3:
     Nombre: Conceptos Basicos
     Temas:
+      - Kubectl
+      - Modos de comunicarse con el cluster:
+        - Imperativo: Se comuica con el cluster de manera manual
+        - Declarativo: Se utilizan archivos de configuracion.
       - Objects
-      Imperative
-        - Pods
-        - ConfigMap
-        - Secrets
+      Imperative:
         - Namespace
+            kubectl create ns tests
+            
+        - Pods
+            kubectl describe pod test
+            kubectl explain pod --recursive
+            kubectl exec -it app -- bash
+        - ConfigMap
+            
+        - Secrets
+
+
         - Services:
             - ClusterIp
             - NodePort
