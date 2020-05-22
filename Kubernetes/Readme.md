@@ -20,7 +20,35 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
 - Lección 3: Preparación del entorno de trabajo
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/He_KMv8tcgU/0.jpg)](https://www.youtube.com/watch?v=He_KMv8tcgU)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
+
+- Lección 4: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
+
+- Lección 5: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1qv1dfOpDPA/0.jpg)](https://www.youtube.com/watch?v=1qv1dfOpDPA)
+
+- Lección 6: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SjCiR-gzKQk/0.jpg)](https://www.youtube.com/watch?v=SjCiR-gzKQk)
+
+- Lección 7: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://www.youtube.com/watch?v=x5jGb6wgSuA)
+
+- Lección 8: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://www.youtube.com/watch?v=WoCh_5FrtEE)
+
+- Lección 9: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OwJAYXTyRxk/0.jpg)](https://www.youtube.com/watch?v=OwJAYXTyRxk)
+
+- Lección 10: 
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
 
 
 ## Material Textual
