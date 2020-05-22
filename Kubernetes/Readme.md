@@ -20,11 +20,11 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
 - Lección 3: Preparación del entorno de trabajo
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
 
 - Lección 4: 
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
 
 - Lección 5: 
 
