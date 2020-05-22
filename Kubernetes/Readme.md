@@ -22,31 +22,31 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
 
-- Lección 4: 
+- Lección 4: Conceptos Basicos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
 
-- Lección 5: 
+- Lección 5: Introduccion a comandos imperativos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1qv1dfOpDPA/0.jpg)](https://www.youtube.com/watch?v=1qv1dfOpDPA)
 
-- Lección 6: 
+- Lección 6: Creando pods & servicios utilizando comandos imperativos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SjCiR-gzKQk/0.jpg)](https://www.youtube.com/watch?v=SjCiR-gzKQk)
 
-- Lección 7: 
+- Lección 7:  Trabajando con multiples namespaces (Comandos Imperativos)
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://www.youtube.com/watch?v=x5jGb6wgSuA)
 
-- Lección 8: 
+- Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos.
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://www.youtube.com/watch?v=WoCh_5FrtEE)
 
-- Lección 9: 
+- Lección 9: Trabajando con multiples namespaces (Archivos de configuracion declarativos)
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OwJAYXTyRxk/0.jpg)](https://www.youtube.com/watch?v=OwJAYXTyRxk)
 
-- Lección 10: 
+- Lección 10: ReplicaSet
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
 
