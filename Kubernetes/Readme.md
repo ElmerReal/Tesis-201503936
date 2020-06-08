@@ -19,17 +19,20 @@ Para acceder a la lista completa de videos del curso dirigase a este enlace:
 
 ## Tabla de leccioness
 
-- [Introducción](#lección-1-introducción)
-- [Play With Kubernetes](#lección-2-play-with-kubernetes)
-- [Preparación del entorno de trabajo](#lección-3-preparación-del-entorno-de-trabajo)
-
-
-- [Interactuar con imágenes Docker](#lección-4-interactuar-con-imágenes-docker)
-- [Interactuar con contenedores](#lección-5-interactuar-con-contenedores)
-- [Configurar atributos de un contenedor utilizando Docker run](#lección-6-configurar-atributos-de-un-contenedor-utilizando-docker-run)
-- [Crear nuevas imágenes](#lección-7-crear-nuevas-imágenes)
-- [Enlazar múltiples contenedores](#lección-8-enlazar-múltiples-contenedores)
-- [Orquestar contenedores](#lección-9-orquestar-contenedores)
+- [Introducción]
+- [Play With Kubernetes]
+- [Preparación del entorno de trabajo]
+- [Conceptos Basicos]
+- [Introduccion a comandos imperativos]
+- [Creando pods & servicios utilizando comandos imperativos]
+- [Trabajando con multiples namespaces (Comandos Imperativos)]
+- [Diferencia entre comandos imperativos y archivos de configuracion declarativos]
+- [Trabajando con multiples namespaces (Archivos de configuracion declarativos)]
+- [ReplicaSet]
+- [Deployment]
+- [StatefulSet & DaemonSet]
+- [Ejemplo Deployment, Secrets & Configmaps]
+- [Crear cluster con kubeadm]
 
 ## Lecciones
 
@@ -63,7 +66,7 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://youtu.be/WoCh_5FrtEE)
 
-### Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos.
+### Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://youtu.be/x5jGb6wgSuA)
 
