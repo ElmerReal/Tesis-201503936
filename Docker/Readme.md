@@ -7,43 +7,60 @@
 
 > Abril 2020
 
-## Contenido del Curso
+## Table of Contents (Optional)
+
+> If your `README` has a lot of info, section headers might be nice.
+
+- [Introducción](#installation)
+- [Conceptos Básicos](#features)
+- [Play With Docker](#contributing)
+- [Interactuar con imágenes Docker](#team)
+- [Interactuar con contenedores](#faq)
+- [Configurar atributos de un contenedor utilizando Docker run](#support)
+- [Crear nuevas imágenes](#license)
+- [Enlazar múltiples contenedores](#license)
+- [Orquestar contenedores](#license)
+- [Material Textual](#license)
+- [Material Audiovisual](#license)
+
+
+## Lecciones
 
 El curso se compone de las siguientes lecciones: (Presione las imagenes para ver el material audiovisual)
 
-- Lección 1: Introducción
+### Lección 1: Introducción
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yTcA1dr9FZs/0.jpg)](https://www.youtube.com/watch?v=yTcA1dr9FZs)
 
-- Lección 2: Conceptos Básicos
+### Lección 2: Conceptos Básicos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c-6q4K792Ks/0.jpg)](https://www.youtube.com/watch?v=c-6q4K792Ks)
 
-- Lección 3: Play With Docker
+### Lección 3: Play With Docker
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9ZtdmM6tqxQ/0.jpg)](https://www.youtube.com/watch?v=9ZtdmM6tqxQ)
 
-- Lección 4: Interactuar con imágenes Docker
+### Lección 4: Interactuar con imágenes Docker
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/z3cSg5gyzOc/0.jpg)](https://www.youtube.com/watch?v=z3cSg5gyzOc)
 
-- Lección 5: Interactuar con contenedores
+### Lección 5: Interactuar con contenedores
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6lnhR1nOS78/0.jpg)](https://www.youtube.com/watch?v=6lnhR1nOS78)
 
-- Lección 6: Configurar atributos de un contenedor utilizando Docker run  
+### Lección 6: Configurar atributos de un contenedor utilizando Docker run  
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5cdPrCFASjU/0.jpg)](https://www.youtube.com/watch?v=5cdPrCFASjU)
 
-- Lección 7: Crear nuevas imágenes 
+### Lección 7: Crear nuevas imágenes 
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-RKMbB4-huI/0.jpg)](https://www.youtube.com/watch?v=-RKMbB4-huI)
 
-- Lección 8: Enlazar múltiples contenedores
+### Lección 8: Enlazar múltiples contenedores
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_gUfz85GqaY/0.jpg)](https://www.youtube.com/watch?v=_gUfz85GqaY)
 
-- Lección 9:Orquestar contenedores
+### Lección 9: Orquestar contenedores
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Aq9hXpdTns0/0.jpg)](https://www.youtube.com/watch?v=Aq9hXpdTns0)
 
