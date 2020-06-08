@@ -1,12 +1,35 @@
+<a href="http://fvcproductions.com"><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" title="FVCproductions" alt="docker"></a>
 
 # Curso Kubernetes
-```
-Elmer Orlando Real Ixcayau
-Carne 201503936
-Abril 2020
-```
 
-## Contenido del Curso
+> Elmer Orlando Real Ixcayau
+
+> Carne 201503936
+
+> Abril 2020
+
+
+## Material Textual
+Puede descargar la presentacion utilizada en el curso en este enlace:
+- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
+
+## Material Audiovisual
+Para acceder a la lista completa de videos del curso dirigase a este enlace:
+- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
+
+## Tabla de leccioness
+
+- [Introducción](#lección-1-introducción)
+- [Conceptos Básicos](#lección-2-conceptos-básicos)
+- [Play With Docker](#lección-3-play-with-docker)
+- [Interactuar con imágenes Docker](#lección-4-interactuar-con-imágenes-docker)
+- [Interactuar con contenedores](#lección-5-interactuar-con-contenedores)
+- [Configurar atributos de un contenedor utilizando Docker run](#lección-6-configurar-atributos-de-un-contenedor-utilizando-docker-run)
+- [Crear nuevas imágenes](#lección-7-crear-nuevas-imágenes)
+- [Enlazar múltiples contenedores](#lección-8-enlazar-múltiples-contenedores)
+- [Orquestar contenedores](#lección-9-orquestar-contenedores)
+
+## Lecciones
 
 El curso se compone de las siguientes lecciones: (Presione las imagenes para ver el material audiovisual)
 
