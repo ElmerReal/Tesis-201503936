@@ -53,7 +53,7 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
 ## Material Textual
 Puede descargar la presentacion utilizada en el curso en este enlace:
-- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Kubernetes.pdf)
+- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Kubernetes/Tesis_201503936%20Curso%20Kubernetes.pdf)
 
 ## Material Audiovisual
 Para acceder a la lista completa de videos del curso dirigase a este enlace:
