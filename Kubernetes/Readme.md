@@ -19,20 +19,20 @@ Para acceder a la lista completa de videos del curso dirigase a este enlace:
 
 ## Tabla de leccioness
 
-- [Introducción]
-- [Play With Kubernetes]
-- [Preparación del entorno de trabajo]
-- [Conceptos Basicos]
-- [Introduccion a comandos imperativos]
-- [Creando pods & servicios utilizando comandos imperativos]
-- [Trabajando con multiples namespaces (Comandos Imperativos)]
-- [Diferencia entre comandos imperativos y archivos de configuracion declarativos]
-- [Trabajando con multiples namespaces (Archivos de configuracion declarativos)]
-- [ReplicaSet]
-- [Deployment]
-- [StatefulSet & DaemonSet]
-- [Ejemplo Deployment, Secrets & Configmaps]
-- [Crear cluster con kubeadm]
+- [Introducción](#lección-1-introducción)
+- [Play With Kubernetes](#lección-2-play-with-kubernetes)
+- [Preparación del entorno de trabajo](#lección-3-preparación-del-entorno-de-trabajo)
+- [Conceptos Basicos](#lección-4-conceptos-basicos)
+- [Introduccion a comandos imperativos](#lección-5-introduccion-a-comandos-imperativos)
+- [Creando pods & servicios utilizando comandos imperativos](#lección-6-creando-pods--servicios-utilizando-comandos-imperativos)
+- [Trabajando con multiples namespaces (Comandos Imperativos)](#lección-7--trabajando-con-multiples-namespaces-comandos-imperativos)
+- [Diferencia entre comandos imperativos y archivos de configuracion declarativos](#lección-8--diferencia-entre-comandos-imperativos-y-archivos-de-configuracion-declarativos)
+- [Trabajando con multiples namespaces (Archivos de configuracion declarativos)](#lección-9-trabajando-con-multiples-namespaces-archivos-de-configuracion-declarativos)
+- [ReplicaSet](#lección-10-replicaset)
+- [Deployment](#lección-11-deployment)
+- [StatefulSet & DaemonSet](#lección-12-statefulset--daemonset)
+- [Ejemplo Deployment, Secrets & Configmaps](#lección-13-ejemplo-deployment-secrets--configmaps)
+- [Crear cluster con kubeadm](#lección-14-crear-cluster-con-kubeadm)
 
 ## Lecciones
 
