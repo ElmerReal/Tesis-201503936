@@ -8,14 +8,14 @@
 
 > Abril 2020
 
-
 ## Material Textual
 Puede descargar la presentacion utilizada en el curso en este enlace:
-- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
+- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Kubernetes/Tesis_201503936%20Curso%20Kubernetes.pdf)
 
 ## Material Audiovisual
 Para acceder a la lista completa de videos del curso dirigase a este enlace:
-- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
+- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaAKO5WGsWwEWANYaBZZZMS1).
+
 
 ## Tabla de leccioness
 
@@ -72,15 +72,3 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 - Lección 10: ReplicaSet
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
-
-
-## Material Textual
-Puede descargar la presentacion utilizada en el curso en este enlace:
-- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Kubernetes/Tesis_201503936%20Curso%20Kubernetes.pdf)
-
-## Material Audiovisual
-Para acceder a la lista completa de videos del curso dirigase a este enlace:
-- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaAKO5WGsWwEWANYaBZZZMS1).
-
-
-
