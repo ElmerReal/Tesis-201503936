@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" title="FVCproductions" alt="docker"></a>
+<a href="http://fvcproductions.com"><img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" title="FVCproductions" alt="docker"></a>
 
 # Curso Kubernetes
 
