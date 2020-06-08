@@ -20,8 +20,10 @@ Para acceder a la lista completa de videos del curso dirigase a este enlace:
 ## Tabla de leccioness
 
 - [Introducción](#lección-1-introducción)
-- [Conceptos Básicos](#lección-2-conceptos-básicos)
-- [Play With Docker](#lección-3-play-with-docker)
+- [Play With Kubernetes](#lección-2-play-with-kubernetes)
+- [Preparación del entorno de trabajo](#lección-3-preparación-del-entorno-de-trabajo)
+
+
 - [Interactuar con imágenes Docker](#lección-4-interactuar-con-imágenes-docker)
 - [Interactuar con contenedores](#lección-5-interactuar-con-contenedores)
 - [Configurar atributos de un contenedor utilizando Docker run](#lección-6-configurar-atributos-de-un-contenedor-utilizando-docker-run)
@@ -33,42 +35,58 @@ Para acceder a la lista completa de videos del curso dirigase a este enlace:
 
 El curso se compone de las siguientes lecciones: (Presione las imagenes para ver el material audiovisual)
 
-- Lección 1: Introducción
+### Lección 1: Introducción
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bqK7RNkXOU8/0.jpg)](https://www.youtube.com/watch?v=bqK7RNkXOU8)
 
-- Lección 2: Play With Kubernetes
+### Lección 2: Play With Kubernetes
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rTRAgbG9PhM/0.jpg)](https://www.youtube.com/watch?v=rTRAgbG9PhM)
 
-- Lección 3: Preparación del entorno de trabajo
+### Lección 3: Preparación del entorno de trabajo
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
 
-- Lección 4: Conceptos Basicos
+### Lección 4: Conceptos Basicos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
 
-- Lección 5: Introduccion a comandos imperativos
+### Lección 5: Introduccion a comandos imperativos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1qv1dfOpDPA/0.jpg)](https://www.youtube.com/watch?v=1qv1dfOpDPA)
 
-- Lección 6: Creando pods & servicios utilizando comandos imperativos
+### Lección 6: Creando pods & servicios utilizando comandos imperativos
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SjCiR-gzKQk/0.jpg)](https://www.youtube.com/watch?v=SjCiR-gzKQk)
 
-- Lección 7:  Trabajando con multiples namespaces (Comandos Imperativos)
+### Lección 7:  Trabajando con multiples namespaces (Comandos Imperativos)
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://www.youtube.com/watch?v=x5jGb6wgSuA)
 
-- Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos.
+### Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos.
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://www.youtube.com/watch?v=WoCh_5FrtEE)
 
-- Lección 9: Trabajando con multiples namespaces (Archivos de configuracion declarativos)
+### Lección 9: Trabajando con multiples namespaces (Archivos de configuracion declarativos)
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OwJAYXTyRxk/0.jpg)](https://www.youtube.com/watch?v=OwJAYXTyRxk)
 
-- Lección 10: ReplicaSet
+### Lección 10: ReplicaSet
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+
+### Lección 11: Deployment
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+
+### Lección 12: StatefulSet & DaemonSet
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+
+### Lección 13: Ejemplo Deployment, Secrets & Configmaps
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+
+### Lección 14: Crear cluster con kubeadm
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
