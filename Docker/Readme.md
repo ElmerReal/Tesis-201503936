@@ -7,9 +7,16 @@
 
 > Abril 2020
 
-## Table of Contents (Optional)
 
-> If your `README` has a lot of info, section headers might be nice.
+## Material Textual
+Puede descargar la presentacion utilizada en el curso en este enlace:
+- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
+
+## Material Audiovisual
+Para acceder a la lista completa de videos del curso dirigase a este enlace:
+- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
+
+## Tabla de leccioness
 
 - [Introducción](#installation)
 - [Conceptos Básicos](#features)
@@ -63,14 +70,3 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 ### Lección 9: Orquestar contenedores
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Aq9hXpdTns0/0.jpg)](https://www.youtube.com/watch?v=Aq9hXpdTns0)
-
-## Material Textual
-Puede descargar la presentacion utilizada en el curso en este enlace:
-- [Descargar PDF](https://github.com/ElmerReal/Tesis-201503936/raw/master/Docker/Tesis_201503936%20Curso%20Docker.pdf)
-
-## Material Audiovisual
-Para acceder a la lista completa de videos del curso dirigase a este enlace:
-- [Ver lista de reproduccion](https://www.youtube.com/playlist?list=PLrKKA2ApdaaCy1xPGopTL4OreZ-w2kgQX).
-
-
-
