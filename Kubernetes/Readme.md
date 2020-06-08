@@ -37,56 +37,56 @@ El curso se compone de las siguientes lecciones: (Presione las imagenes para ver
 
 ### Lección 1: Introducción
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bqK7RNkXOU8/0.jpg)](https://www.youtube.com/watch?v=bqK7RNkXOU8)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bqK7RNkXOU8/0.jpg)](https://youtu.be/bqK7RNkXOU8)
 
 ### Lección 2: Play With Kubernetes
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rTRAgbG9PhM/0.jpg)](https://www.youtube.com/watch?v=rTRAgbG9PhM)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rTRAgbG9PhM/0.jpg)](https://youtu.be/rTRAgbG9PhM)
 
 ### Lección 3: Preparación del entorno de trabajo
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://www.youtube.com/watch?v=M0vBOna5WbI)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M0vBOna5WbI/0.jpg)](https://youtu.be/M0vBOna5WbI)
 
 ### Lección 4: Conceptos Basicos
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://www.youtube.com/watch?v=Tr3YCLe2LAI)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Tr3YCLe2LAI/0.jpg)](https://youtu.be/Tr3YCLe2LAI)
 
 ### Lección 5: Introduccion a comandos imperativos
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1qv1dfOpDPA/0.jpg)](https://www.youtube.com/watch?v=1qv1dfOpDPA)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1qv1dfOpDPA/0.jpg)](https://youtu.be/1qv1dfOpDPA)
 
 ### Lección 6: Creando pods & servicios utilizando comandos imperativos
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SjCiR-gzKQk/0.jpg)](https://www.youtube.com/watch?v=SjCiR-gzKQk)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SjCiR-gzKQk/0.jpg)](https://youtu.be/SjCiR-gzKQk)
 
 ### Lección 7:  Trabajando con multiples namespaces (Comandos Imperativos)
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://www.youtube.com/watch?v=x5jGb6wgSuA)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://youtu.be/WoCh_5FrtEE)
 
 ### Lección 8:  Diferencia entre comandos imperativos y archivos de configuracion declarativos.
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WoCh_5FrtEE/0.jpg)](https://www.youtube.com/watch?v=WoCh_5FrtEE)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/x5jGb6wgSuA/0.jpg)](https://youtu.be/x5jGb6wgSuA)
 
 ### Lección 9: Trabajando con multiples namespaces (Archivos de configuracion declarativos)
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OwJAYXTyRxk/0.jpg)](https://www.youtube.com/watch?v=OwJAYXTyRxk)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://youtu.be/0uEo7Wbz0K0)
 
 ### Lección 10: ReplicaSet
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OwJAYXTyRxk/0.jpg)](https://youtu.be/OwJAYXTyRxk)
 
 ### Lección 11: Deployment
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YJemfaecq1M/0.jpg)](https://youtu.be/YJemfaecq1M)
 
 ### Lección 12: StatefulSet & DaemonSet
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rIsQGRrZCos/0.jpg)](https://youtu.be/rIsQGRrZCos)
 
 ### Lección 13: Ejemplo Deployment, Secrets & Configmaps
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mBds3rHBNqQ/0.jpg)](https://youtu.be/mBds3rHBNqQ)
 
 ### Lección 14: Crear cluster con kubeadm
 
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0uEo7Wbz0K0/0.jpg)](https://www.youtube.com/watch?v=0uEo7Wbz0K0)
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QAl3BwwvRyk/0.jpg)](https://youtu.be/QAl3BwwvRyk)
