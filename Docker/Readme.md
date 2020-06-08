@@ -1,4 +1,5 @@
-<a ><img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" title="FVCproductions" alt="docker"></a>
+[![IMAGE ALT TEXT HERE](https://www.docker.com/sites/default/files/social/docker_facebook_share.png)]
+
 # Curso Docker
 
 > Elmer Orlando Real Ixcayau
