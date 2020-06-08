@@ -20,13 +20,13 @@ Para acceder a la lista completa de videos del curso dirigase a este enlace:
 
 - [Introducción](#lección-1-introducción)
 - [Conceptos Básicos](#lección-2-conceptos-básicos)
-- [Play With Docker](##lección-3-play-with-docker)
+- [Play With Docker](#lección-3-play-with-docker)
 - [Interactuar con imágenes Docker](#lección-4-interactuar-con-imágenes-docker)
-- [Interactuar con contenedores](#lección-5)
-- [Configurar atributos de un contenedor utilizando Docker run](#lección-6)
-- [Crear nuevas imágenes](#lección-7)
-- [Enlazar múltiples contenedores](#lección-8)
-- [Orquestar contenedores](#lección-9)
+- [Interactuar con contenedores](#lección-5-interactuar-con-contenedores)
+- [Configurar atributos de un contenedor utilizando Docker run](#lección-6-configurar-atributos-de-un-contenedor-utilizando-docker-run)
+- [Crear nuevas imágenes](#lección-7-crear-nuevas-imágenes)
+- [Enlazar múltiples contenedores](#lección-8-enlazar-múltiples-contenedores)
+- [Orquestar contenedores](#lección-9-orquestar-contenedores)
 
 ## Lecciones
 
